@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="Practica01 - src"/>
+	<classpathentry kind="src" path="Practica02 - src"/>
+	<classpathentry kind="src" path="Practica03 - src"/>
+	<classpathentry kind="src" path="Practica04 - src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
